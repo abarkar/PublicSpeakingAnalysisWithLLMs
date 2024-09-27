@@ -1,0 +1,2 @@
+TASK=[Evaluate transcript of the public performance given in the TRANSCRIPT section. To understand how evaluate it, use the description of the dimension described in the section DIMENSION. Give ONLY one number as an answer - this number is a score and it has to be given based on the scale described in the SCALE section.]SCALE=[Scale from 1=not at all to 5=very much. ]DIMENTION=[In your opinion, how persuasive is the speech in this transcript, i.e., do the person effectively craft a convincing message? Is their reasoning rigorous? 
+]

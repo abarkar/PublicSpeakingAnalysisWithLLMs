@@ -1,0 +1,9 @@
+,text_SD_LIWC_Best_Feature&,text_SD_LIWC_Best_Correlation&,text_SD_LIWC_Best_p-value&
+length,BigWords&,$0.19$&,$0.278$&
+redundancy,WPS&,$-0.25$&,$0.165$&
+topic,WPS&,$0.22$&,$0.223$&
+structure,BigWords&,$0.31$&,$0.081$&
+languageLVL,WPS&,$0.13$&,$0.463$&
+passiveV,WPS&,$0.11$&,$0.547$&
+negLang,BigWords&,$0.07$&,$0.719$&
+metaphor,WC&,$0.26$&,$0.139$&

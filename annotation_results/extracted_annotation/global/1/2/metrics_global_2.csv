@@ -1,0 +1,11 @@
+metrics_name,metrics_value
+Mean Absolute Error (MAE),12.406556965562878
+Mean Squared Error (MSE),234.37172797103935
+Root Mean Squared Error (RMSE),15.309204028003524
+Mean Absolute Percentage Error (MAPE),21.441423726104055
+Coefficient of Determination (R²),-1.242875447275353
+Adjusted R²:,-1.300981028810984
+Mean Percentage Error (MPE):,-3.147048275259224
+Median Absolute Error (MedAE),10.837899372019699
+Theil's U statistic:,0.23694070903880882
+Cochran's Q statistic:,2.242875447275353

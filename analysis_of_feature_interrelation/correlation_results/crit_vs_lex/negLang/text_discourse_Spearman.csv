@@ -1,0 +1,9 @@
+Lexical Feature,Spearman Correlation,p-value
+localNounOverlapCount,,
+localArgumentOverlapCount,0.037071735464702146,0.8089585642162717
+localStemOverlapCount,0.012357652520941308,0.9357855898562376
+localContentWordOverlap,0.16234530157732388,0.2866553418925386
+globalNounOverlapCount,,
+globalArgumentOverlapCount,0.11293586196683399,0.4601220261969159
+globalStemOverlapCount,0.1305820903991518,0.39255626784322273
+globalContentWordOverlap,0.15528681020439675,0.3084035805970944

@@ -1,0 +1,6 @@
+,text_density_Best_Feature&,text_density_Best_Correlation&,text_density_Best_p-value&,text_discourse_Best_Feature&,text_discourse_Best_Correlation&,text_discourse_Best_p-value&,text_diversity_Best_Feature&,text_diversity_Best_Correlation&,text_diversity_Best_p-value&,text_linking_rate_Best_Feature&,text_linking_rate_Best_Correlation&,text_linking_rate_Best_p-value&,text_reference_Best_Feature&,text_reference_Best_Correlation&,text_reference_Best_p-value&,text_synonyms_rate_Best_Feature&,text_synonyms_rate_Best_Correlation&,text_synonyms_rate_Best_p-value&
+redundancy,POS_numInterjections&,$0.34$&,$0.05$&,globalArgumentOverlapCount&,$0.15$&,$0.409$&,BilogTTR&,$0.27$&,$0.125$&,conjunctNeighborSent&,$-0.08$&,$0.654$&,DISC_RefExprProperNounsPerNoun&,$-0.07$&,$0.681$&,averageSynClassNOUN&,$0.08$&,$0.669$&
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+redundancy,$0.27$&,$0.125$&,$0.34$&,$0.05$&,$0.15$&,$0.409$&,$-0.07$&,$0.681$&,$0.08$&,$0.669$&,$-0.08$&,$0.654$&,$0.39$&,$0.025$&,,,,

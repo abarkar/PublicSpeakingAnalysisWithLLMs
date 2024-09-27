@@ -1,0 +1,793 @@
+Feature Pair,F-Statistic,P-Value,,,
+length,vs,POS,numNouns,1.2304383985188614,0.2688181966451335
+length,vs,POS,numProperNouns,0.112243554149357,0.7379986836495007
+length,vs,POS,numPronouns,0.1953320457926188,0.6590518507396171
+length,vs,POS,numConjunct,0.5517476849442812,0.4585836333565333
+length,vs,POS,numAdjectives,1.7125742625177112,0.19233883545668523
+length,vs,POS,numVerbs,0.5000753906551714,0.48039176727045585
+length,vs,POS,numAdverbs,1.667837025025669,0.19822299794238193
+length,vs,POS,numModals,,
+length,vs,POS,numPrepositions,0.004589706793267619,0.9460627752806422
+length,vs,POS,numInterjections,13.21378672803322,0.0003635532892397351
+length,vs,POS,numPerPronouns,0.1953320457926188,0.6590518507396171
+length,vs,POS,numWhPronouns,,
+length,vs,POS,numLexicals,0.39569270980223775,0.5301285919431008
+length,vs,POS,numFunctionWords,0.7101891849712726,0.400511952528096
+length,vs,POS,numDeterminers,3.209666095707153,0.07490325358681538
+length,vs,POS,numVerbsVB,1.545019903998595,0.21550695402128958
+length,vs,POS,numVerbsVBG,,
+length,vs,POS,numVerbsVBN,12.978381594765652,0.0004086726711565537
+length,vs,POS,numVerbsVBP,,
+length,vs,POS,numVerbsVBZ,,
+length,vs,POS,advVar,1.6902334943190127,0.19525113064798433
+length,vs,POS,adjVar,1.5938454535888045,0.20842907665197533
+length,vs,POS,modVar,3.1827080821150067,0.07612485059483001
+length,vs,POS,nounVar,1.4926867423721633,0.22341562194361783
+length,vs,POS,verbVar1,0.7601137795636904,0.38446736104135526
+length,vs,POS,verbVar2,0.569527876164318,0.45144388212163133
+length,vs,POS,squaredVerbVar1,0.18598100102447856,0.6668046901731315
+length,vs,POS,correctedVV1,0.05183327925435253,0.8201646920111346
+length,vs,localNounOverlapCount,,,
+length,vs,localArgumentOverlapCount,1.4599795198561192,0.22853617115257535,
+length,vs,localStemOverlapCount,0.6487217694048774,0.4216446617023041,
+length,vs,localContentWordOverlap,0.5996163916556856,0.43975174839389186,
+length,vs,globalNounOverlapCount,,,
+length,vs,globalArgumentOverlapCount,4.795847066791458,0.029828789700685532,
+length,vs,globalStemOverlapCount,4.177580003550896,0.042435471375629384,
+length,vs,globalContentWordOverlap,0.5289596376584796,0.46800007140503974,
+length,vs,TTR,0.5782048005493282,0.4480228812603525,
+length,vs,CorrectedTTR,2.282986849662117,0.13257298296859546,
+length,vs,RootTTR,2.282986849662161,0.13257298296859155,
+length,vs,BilogTTR,3.4034774617789734,0.06672079537565466,
+length,vs,MTLD,0.09938264728007991,0.7529410196551948,
+length,vs,conjunctToSent,0.04944178894399591,0.8242923887753211,
+length,vs,conjunctTypesToSent,1.8951906586475453,0.17034673799552752,
+length,vs,conjunctToWords,1.7608750959472346,0.18621509257383978,
+length,vs,conjunctNum,0.7646468782702127,0.38305649127765784,
+length,vs,conjunctTypesToTotal,1.2991153005621836,0.25590630314379254,
+length,vs,conjunctNeighborSent,10.44197063569135,0.0014676132766020227,
+length,vs,Segment,,,
+length,vs,WC,,,
+length,vs,WPS,,,
+length,vs,BigWords,,,
+length,vs,emopos,,,
+length,vs,emoneg,,,
+length,vs,anxiete,,,
+length,vs,colère,,,
+length,vs,tristesse,,,
+length,vs,cognition,,,
+length,vs,perspicacite,,,
+length,vs,cause,,,
+length,vs,divergence,,,
+length,vs,tentative,,,
+length,vs,certitude,,,
+length,vs,inhibition,,,
+length,vs,inclusion,,,
+length,vs,exclusion,,,
+length,vs,perception,,,
+length,vs,remplisseur,,,
+length,vs,Unnamed: 5,,,
+length,vs,Unnamed: 6,,,
+length,vs,Unnamed: 7,,,
+length,vs,Unnamed: 8,,,
+length,vs,Unnamed: 9,,,
+length,vs,Unnamed: 10,,,
+length,vs,Unnamed: 11,,,
+length,vs,Unnamed: 12,,,
+length,vs,Unnamed: 13,,,
+length,vs,Unnamed: 14,,,
+length,vs,Unnamed: 15,,,
+length,vs,Unnamed: 16,,,
+length,vs,Unnamed: 17,,,
+length,vs,Unnamed: 18,,,
+length,vs,Unnamed: 19,,,
+length,vs,Unnamed: 20,,,
+length,vs,Unnamed: 21,,,
+length,vs,Unnamed: 38,,,
+length,vs,Unnamed: 39,,,
+length,vs,Unnamed: 40,,,
+length,vs,Unnamed: 41,,,
+length,vs,Unnamed: 42,,,
+length,vs,DISC,RefExprPronounsPerNoun,0.19613307292376286,0.6583981214082752
+length,vs,DISC,RefExprPronounsPerSen,0.0005272369898162713,0.9817065903086607
+length,vs,DISC,RefExprPronounsPerWord,0.5653065615722167,0.453123032008636
+length,vs,DISC,RefExprPerPronounsPerSen,0.0005272369898162713,0.9817065903086607
+length,vs,DISC,RefExprPerProPerWord,0.5653065615722167,0.453123032008636
+length,vs,DISC,RefExprPossProPerSen,,
+length,vs,DISC,RefExprPossProPerWord,,
+length,vs,DISC,RefExprDefArtPerSen,,
+length,vs,DISC,RefExprDefArtPerWord,,
+length,vs,DISC,RefExprProperNounsPerNoun,0.06327030570026185,0.8016899786250353
+redundancy,vs,POS,numNouns,0.9137482223886078,0.3408432045994457
+redundancy,vs,POS,numProperNouns,1.6465995755487717,0.20163722286012553
+redundancy,vs,POS,numPronouns,2.958913067857008,0.08771387232998523
+redundancy,vs,POS,numConjunct,0.14586050465334002,0.7031280007805811
+redundancy,vs,POS,numAdjectives,0.26047540994922397,0.6106334257258824
+redundancy,vs,POS,numVerbs,0.2268349609714536,0.6346563028271617
+redundancy,vs,POS,numAdverbs,0.5404720257790545,0.46352190401062165
+redundancy,vs,POS,numModals,,
+redundancy,vs,POS,numPrepositions,3.3210917687363386,0.07062600975490958
+redundancy,vs,POS,numInterjections,10.913372049648821,0.0012245779696352457
+redundancy,vs,POS,numPerPronouns,2.958913067857008,0.08771387232998523
+redundancy,vs,POS,numWhPronouns,,
+redundancy,vs,POS,numLexicals,0.4866782689638469,0.48662150152750194
+redundancy,vs,POS,numFunctionWords,4.510713835285959e-05,0.9946512885829211
+redundancy,vs,POS,numDeterminers,0.3185204829870879,0.573441611114242
+redundancy,vs,POS,numVerbsVB,1.3870277630028418,0.24099511897439135
+redundancy,vs,POS,numVerbsVBG,,
+redundancy,vs,POS,numVerbsVBN,1.7858901732271468,0.18369251422949676
+redundancy,vs,POS,numVerbsVBP,,
+redundancy,vs,POS,numVerbsVBZ,,
+redundancy,vs,POS,advVar,0.38852840717002013,0.5341334571615528
+redundancy,vs,POS,adjVar,0.14179476152568116,0.7070988426181559
+redundancy,vs,POS,modVar,0.5272578505860579,0.4690284070867612
+redundancy,vs,POS,nounVar,1.1954622238298365,0.27619218484861335
+redundancy,vs,POS,verbVar1,8.276814446664694,0.0046738721073826435
+redundancy,vs,POS,verbVar2,0.19838613808554226,0.656745406483399
+redundancy,vs,POS,squaredVerbVar1,2.644185772004956,0.1062788943209087
+redundancy,vs,POS,correctedVV1,2.45737386102155,0.11933267027102488
+redundancy,vs,localNounOverlapCount,,,
+redundancy,vs,localArgumentOverlapCount,0.2981096860452776,0.5859777619093517,
+redundancy,vs,localStemOverlapCount,0.6318571872967139,0.42808056184161214,
+redundancy,vs,localContentWordOverlap,0.23580712504952647,0.6280440193115453,
+redundancy,vs,globalNounOverlapCount,,,
+redundancy,vs,globalArgumentOverlapCount,4.138227327708975,0.04389818383861676,
+redundancy,vs,globalStemOverlapCount,1.609669579667521,0.20673778245070062,
+redundancy,vs,globalContentWordOverlap,0.08787215996339827,0.7673588398269346,
+redundancy,vs,TTR,0.3339802141336151,0.5642946209541555,
+redundancy,vs,CorrectedTTR,2.6495878769742474,0.10592580322886504,
+redundancy,vs,RootTTR,2.6495878769742833,0.10592580322886083,
+redundancy,vs,BilogTTR,3.639102970804999,0.05857700740610904,
+redundancy,vs,MTLD,4.247182619708445,0.04124958830711187,
+redundancy,vs,conjunctToSent,3.149334625777722,0.07822861001864809,
+redundancy,vs,conjunctTypesToSent,3.9773991791927985,0.048144029168502585,
+redundancy,vs,conjunctToWords,0.04738564751707583,0.8280076667610243,
+redundancy,vs,conjunctNum,0.06603126206060886,0.7975995566406044,
+redundancy,vs,conjunctTypesToTotal,0.13598958773725836,0.7128829033866408,
+redundancy,vs,conjunctNeighborSent,0.8997463163093782,0.3445572827356108,
+redundancy,vs,Segment,,,
+redundancy,vs,WC,,,
+redundancy,vs,WPS,,,
+redundancy,vs,BigWords,,,
+redundancy,vs,emopos,,,
+redundancy,vs,emoneg,,,
+redundancy,vs,anxiete,,,
+redundancy,vs,colère,,,
+redundancy,vs,tristesse,,,
+redundancy,vs,cognition,,,
+redundancy,vs,perspicacite,,,
+redundancy,vs,cause,,,
+redundancy,vs,divergence,,,
+redundancy,vs,tentative,,,
+redundancy,vs,certitude,,,
+redundancy,vs,inhibition,,,
+redundancy,vs,inclusion,,,
+redundancy,vs,exclusion,,,
+redundancy,vs,perception,,,
+redundancy,vs,remplisseur,,,
+redundancy,vs,Unnamed: 5,,,
+redundancy,vs,Unnamed: 6,,,
+redundancy,vs,Unnamed: 7,,,
+redundancy,vs,Unnamed: 8,,,
+redundancy,vs,Unnamed: 9,,,
+redundancy,vs,Unnamed: 10,,,
+redundancy,vs,Unnamed: 11,,,
+redundancy,vs,Unnamed: 12,,,
+redundancy,vs,Unnamed: 13,,,
+redundancy,vs,Unnamed: 14,,,
+redundancy,vs,Unnamed: 15,,,
+redundancy,vs,Unnamed: 16,,,
+redundancy,vs,Unnamed: 17,,,
+redundancy,vs,Unnamed: 18,,,
+redundancy,vs,Unnamed: 19,,,
+redundancy,vs,Unnamed: 20,,,
+redundancy,vs,Unnamed: 21,,,
+redundancy,vs,Unnamed: 38,,,
+redundancy,vs,Unnamed: 39,,,
+redundancy,vs,Unnamed: 40,,,
+redundancy,vs,Unnamed: 41,,,
+redundancy,vs,Unnamed: 42,,,
+redundancy,vs,DISC,RefExprPronounsPerNoun,2.8915947966291458,0.09136247144641327
+redundancy,vs,DISC,RefExprPronounsPerSen,0.011817372293232138,0.9135969187779851
+redundancy,vs,DISC,RefExprPronounsPerWord,3.0097862955796337,0.08506249165311577
+redundancy,vs,DISC,RefExprPerPronounsPerSen,0.011817372293232138,0.9135969187779851
+redundancy,vs,DISC,RefExprPerProPerWord,3.0097862955796337,0.08506249165311577
+redundancy,vs,DISC,RefExprPossProPerSen,,
+redundancy,vs,DISC,RefExprPossProPerWord,,
+redundancy,vs,DISC,RefExprDefArtPerSen,,
+redundancy,vs,DISC,RefExprDefArtPerWord,,
+redundancy,vs,DISC,RefExprProperNounsPerNoun,0.8251393205025659,0.36531262251824614
+topic,vs,POS,numNouns,0.3597597834413972,0.6983530285485121
+topic,vs,POS,numProperNouns,5.534444073848948,0.004662119215943021
+topic,vs,POS,numPronouns,1.2225226984898065,0.29696059932660396
+topic,vs,POS,numConjunct,1.5626454743144287,0.2124582193304899
+topic,vs,POS,numAdjectives,0.4492850360710244,0.638809848290347
+topic,vs,POS,numVerbs,2.734925643477883,0.0676425733332697
+topic,vs,POS,numAdverbs,9.454893198665777,0.0001255065727119722
+topic,vs,POS,numModals,,
+topic,vs,POS,numPrepositions,1.3659977283667164,0.257802142761476
+topic,vs,POS,numInterjections,0.2438172506580691,0.783893579463608
+topic,vs,POS,numPerPronouns,1.2225226984898065,0.29696059932660396
+topic,vs,POS,numWhPronouns,,
+topic,vs,POS,numLexicals,3.242639359012281,0.041392873698884794
+topic,vs,POS,numFunctionWords,2.471135846278054,0.08739957682278993
+topic,vs,POS,numDeterminers,8.052973510059045,0.0004494890883514897
+topic,vs,POS,numVerbsVB,5.945464171112203,0.0031692144778202452
+topic,vs,POS,numVerbsVBG,,
+topic,vs,POS,numVerbsVBN,10.456309690403314,5.1018830181860144e-05
+topic,vs,POS,numVerbsVBP,,
+topic,vs,POS,numVerbsVBZ,,
+topic,vs,POS,advVar,9.18596602635746,0.00016007809687100579
+topic,vs,POS,adjVar,0.6788729374072523,0.5085038968325091
+topic,vs,POS,modVar,3.7603398454904933,0.025156344296400734
+topic,vs,POS,nounVar,0.16481485699566567,0.8481806979400148
+topic,vs,POS,verbVar1,0.17489958242119874,0.8396862358350073
+topic,vs,POS,verbVar2,4.627044813686717,0.010996873514437728
+topic,vs,POS,squaredVerbVar1,1.635400854052894,0.1978048995549111
+topic,vs,POS,correctedVV1,2.0227071473986973,0.1353436091908101
+topic,vs,localNounOverlapCount,,,
+topic,vs,localArgumentOverlapCount,2.0960091446007194,0.12598737649322866,
+topic,vs,localStemOverlapCount,1.2629245420260355,0.2853615843624443,
+topic,vs,localContentWordOverlap,0.12922880316833626,0.8788557126858457,
+topic,vs,globalNounOverlapCount,,,
+topic,vs,globalArgumentOverlapCount,0.37906829318977775,0.6850531994053464,
+topic,vs,globalStemOverlapCount,0.5002546591954289,0.6072309416793006,
+topic,vs,globalContentWordOverlap,3.3151300915746282,0.03859828304425643,
+topic,vs,TTR,2.0264213048094657,0.13485305539061723,
+topic,vs,CorrectedTTR,1.0398931638478863,0.35564183878626854,
+topic,vs,RootTTR,1.039893163847828,0.3556418387862967,
+topic,vs,BilogTTR,0.7847291549264312,0.4578239808512713,
+topic,vs,MTLD,11.433522998451087,2.1381512808565865e-05,
+topic,vs,conjunctToSent,0.4316932141754882,0.650090464455821,
+topic,vs,conjunctTypesToSent,1.390580112341565,0.25163685343445014,
+topic,vs,conjunctToWords,0.9007087880776464,0.4081354519912005,
+topic,vs,conjunctNum,0.24185894703460944,0.7854259762668124,
+topic,vs,conjunctTypesToTotal,2.196522189506503,0.11421110629495983,
+topic,vs,conjunctNeighborSent,1.3911645796727066,0.2514920972200489,
+topic,vs,Segment,,,
+topic,vs,WC,,,
+topic,vs,WPS,,,
+topic,vs,BigWords,,,
+topic,vs,emopos,,,
+topic,vs,emoneg,,,
+topic,vs,anxiete,,,
+topic,vs,colère,,,
+topic,vs,tristesse,,,
+topic,vs,cognition,,,
+topic,vs,perspicacite,,,
+topic,vs,cause,,,
+topic,vs,divergence,,,
+topic,vs,tentative,,,
+topic,vs,certitude,,,
+topic,vs,inhibition,,,
+topic,vs,inclusion,,,
+topic,vs,exclusion,,,
+topic,vs,perception,,,
+topic,vs,remplisseur,,,
+topic,vs,Unnamed: 5,,,
+topic,vs,Unnamed: 6,,,
+topic,vs,Unnamed: 7,,,
+topic,vs,Unnamed: 8,,,
+topic,vs,Unnamed: 9,,,
+topic,vs,Unnamed: 10,,,
+topic,vs,Unnamed: 11,,,
+topic,vs,Unnamed: 12,,,
+topic,vs,Unnamed: 13,,,
+topic,vs,Unnamed: 14,,,
+topic,vs,Unnamed: 15,,,
+topic,vs,Unnamed: 16,,,
+topic,vs,Unnamed: 17,,,
+topic,vs,Unnamed: 18,,,
+topic,vs,Unnamed: 19,,,
+topic,vs,Unnamed: 20,,,
+topic,vs,Unnamed: 21,,,
+topic,vs,Unnamed: 38,,,
+topic,vs,Unnamed: 39,,,
+topic,vs,Unnamed: 40,,,
+topic,vs,Unnamed: 41,,,
+topic,vs,Unnamed: 42,,,
+topic,vs,DISC,RefExprPronounsPerNoun,0.329563964645926,0.7196776652419146
+topic,vs,DISC,RefExprPronounsPerSen,4.273124746570037,0.015403383278778465
+topic,vs,DISC,RefExprPronounsPerWord,1.8454774381346726,0.16097614614580188
+topic,vs,DISC,RefExprPerPronounsPerSen,4.273124746570037,0.015403383278778465
+topic,vs,DISC,RefExprPerProPerWord,1.8454774381346726,0.16097614614580188
+topic,vs,DISC,RefExprPossProPerSen,,
+topic,vs,DISC,RefExprPossProPerWord,,
+topic,vs,DISC,RefExprDefArtPerSen,,
+topic,vs,DISC,RefExprDefArtPerWord,,
+topic,vs,DISC,RefExprProperNounsPerNoun,6.355998503917506,0.0021589602979253967
+structure,vs,POS,numNouns,1.019763529760032,0.36278930692791816
+structure,vs,POS,numProperNouns,3.3248126426773763,0.03823974193190149
+structure,vs,POS,numPronouns,3.4528401824180266,0.03380367041701017
+structure,vs,POS,numConjunct,2.1902571509254276,0.11491147694073911
+structure,vs,POS,numAdjectives,3.4699347567625876,0.033252110770963926
+structure,vs,POS,numVerbs,2.634315732894956,0.07458096934764995
+structure,vs,POS,numAdverbs,13.378370674585522,3.8834997021426125e-06
+structure,vs,POS,numModals,,
+structure,vs,POS,numPrepositions,3.482102307381906,0.0328650748892339
+structure,vs,POS,numInterjections,12.41664360960212,8.990251585540695e-06
+structure,vs,POS,numPerPronouns,3.4528401824180266,0.03380367041701017
+structure,vs,POS,numWhPronouns,,
+structure,vs,POS,numLexicals,5.736757593842817,0.003854604430937577
+structure,vs,POS,numFunctionWords,3.007590026327431,0.05194270149680756
+structure,vs,POS,numDeterminers,6.908203547417748,0.0012916455906839945
+structure,vs,POS,numVerbsVB,1.6734933208470923,0.1905448816980784
+structure,vs,POS,numVerbsVBG,,
+structure,vs,POS,numVerbsVBN,0.4119536174881817,0.6629883949808928
+structure,vs,POS,numVerbsVBP,,
+structure,vs,POS,numVerbsVBZ,,
+structure,vs,POS,advVar,13.179601461549632,4.616204413205697e-06
+structure,vs,POS,adjVar,3.490191033562544,0.032610305748229346
+structure,vs,POS,modVar,10.005214745242677,7.644310143261953e-05
+structure,vs,POS,nounVar,2.731004538146141,0.06790035161459486
+structure,vs,POS,verbVar1,0.3717389978628764,0.6900712378336991
+structure,vs,POS,verbVar2,5.1661748502226725,0.006597858537061779
+structure,vs,POS,squaredVerbVar1,0.6730673903392886,0.5114421185676776
+structure,vs,POS,correctedVV1,0.8573955736272181,0.42602001760484165
+structure,vs,localNounOverlapCount,,,
+structure,vs,localArgumentOverlapCount,0.41781279500501856,0.6591332062924595,
+structure,vs,localStemOverlapCount,0.32430499244834704,0.7234583960924592,
+structure,vs,localContentWordOverlap,1.4967252465756509,0.22668140756654853,
+structure,vs,globalNounOverlapCount,,,
+structure,vs,globalArgumentOverlapCount,0.11750109077673745,0.8892088386936661,
+structure,vs,globalStemOverlapCount,0.19654240785536314,0.8217455448754232,
+structure,vs,globalContentWordOverlap,0.3047987353086423,0.737657934107903,
+structure,vs,TTR,0.19706349306568413,0.8213184065766869,
+structure,vs,CorrectedTTR,0.16560277286086436,0.8475139103687724,
+structure,vs,RootTTR,0.1656027728608518,0.8475139103687892,
+structure,vs,BilogTTR,0.17266930104667333,0.8415573839167254,
+structure,vs,MTLD,12.887349148726496,5.955468994155207e-06,
+structure,vs,conjunctToSent,1.6872284435939222,0.18799372312774432,
+structure,vs,conjunctTypesToSent,6.819238410443454,0.0014028123058913453,
+structure,vs,conjunctToWords,3.163181749038163,0.044691848703697766,
+structure,vs,conjunctNum,2.579332820465133,0.07867261038854578,
+structure,vs,conjunctTypesToTotal,0.6589346851000304,0.5186667432390822,
+structure,vs,conjunctNeighborSent,0.4479893772103311,0.6396338843261097,
+structure,vs,Segment,,,
+structure,vs,WC,,,
+structure,vs,WPS,,,
+structure,vs,BigWords,,,
+structure,vs,emopos,,,
+structure,vs,emoneg,,,
+structure,vs,anxiete,,,
+structure,vs,colère,,,
+structure,vs,tristesse,,,
+structure,vs,cognition,,,
+structure,vs,perspicacite,,,
+structure,vs,cause,,,
+structure,vs,divergence,,,
+structure,vs,tentative,,,
+structure,vs,certitude,,,
+structure,vs,inhibition,,,
+structure,vs,inclusion,,,
+structure,vs,exclusion,,,
+structure,vs,perception,,,
+structure,vs,remplisseur,,,
+structure,vs,Unnamed: 5,,,
+structure,vs,Unnamed: 6,,,
+structure,vs,Unnamed: 7,,,
+structure,vs,Unnamed: 8,,,
+structure,vs,Unnamed: 9,,,
+structure,vs,Unnamed: 10,,,
+structure,vs,Unnamed: 11,,,
+structure,vs,Unnamed: 12,,,
+structure,vs,Unnamed: 13,,,
+structure,vs,Unnamed: 14,,,
+structure,vs,Unnamed: 15,,,
+structure,vs,Unnamed: 16,,,
+structure,vs,Unnamed: 17,,,
+structure,vs,Unnamed: 18,,,
+structure,vs,Unnamed: 19,,,
+structure,vs,Unnamed: 20,,,
+structure,vs,Unnamed: 21,,,
+structure,vs,Unnamed: 38,,,
+structure,vs,Unnamed: 39,,,
+structure,vs,Unnamed: 40,,,
+structure,vs,Unnamed: 41,,,
+structure,vs,Unnamed: 42,,,
+structure,vs,DISC,RefExprPronounsPerNoun,2.467100144197853,0.08774339635875263
+structure,vs,DISC,RefExprPronounsPerSen,5.9973406264141325,0.0030188813187300733
+structure,vs,DISC,RefExprPronounsPerWord,4.002713488964612,0.019943833174921974
+structure,vs,DISC,RefExprPerPronounsPerSen,5.9973406264141325,0.0030188813187300733
+structure,vs,DISC,RefExprPerProPerWord,4.002713488964612,0.019943833174921974
+structure,vs,DISC,RefExprPossProPerSen,,
+structure,vs,DISC,RefExprPossProPerWord,,
+structure,vs,DISC,RefExprDefArtPerSen,,
+structure,vs,DISC,RefExprDefArtPerWord,,
+structure,vs,DISC,RefExprProperNounsPerNoun,4.8801949534086555,0.008648320088339755
+languageLVL,vs,POS,numNouns,1.8306303258949868,0.1777690756875501
+languageLVL,vs,POS,numProperNouns,15.682119644588832,0.00010822472993935939
+languageLVL,vs,POS,numPronouns,2.0196426488538797,0.1570252085533806
+languageLVL,vs,POS,numConjunct,0.14646294040141652,0.7023952763418204
+languageLVL,vs,POS,numAdjectives,1.8297290331675091,0.17787532070563342
+languageLVL,vs,POS,numVerbs,1.2706565735235436,0.26116078924045755
+languageLVL,vs,POS,numAdverbs,15.08147629517941,0.0001449900060892197
+languageLVL,vs,POS,numModals,,
+languageLVL,vs,POS,numPrepositions,0.009342309607567439,0.9231086214858606
+languageLVL,vs,POS,numInterjections,2.685080583366553,0.10305846116016047
+languageLVL,vs,POS,numPerPronouns,2.0196426488538797,0.1570252085533806
+languageLVL,vs,POS,numWhPronouns,,
+languageLVL,vs,POS,numLexicals,25.333445461494883,1.1738376025793685e-06
+languageLVL,vs,POS,numFunctionWords,0.9278017973653782,0.3367415066675903
+languageLVL,vs,POS,numDeterminers,20.25774711408494,1.2196401155742735e-05
+languageLVL,vs,POS,numVerbsVB,0.6942136792444976,0.4058514363860556
+languageLVL,vs,POS,numVerbsVBG,,
+languageLVL,vs,POS,numVerbsVBN,13.020824343512869,0.0004001351507245003
+languageLVL,vs,POS,numVerbsVBP,,
+languageLVL,vs,POS,numVerbsVBZ,,
+languageLVL,vs,POS,advVar,11.671891535066356,0.0007861635613077695
+languageLVL,vs,POS,adjVar,0.698473913183257,0.4044173987225984
+languageLVL,vs,POS,modVar,9.89951166546949,0.001938236356778352
+languageLVL,vs,POS,nounVar,8.947722116713598,0.003172156963757926
+languageLVL,vs,POS,verbVar1,6.130410211912247,0.014222228952660055
+languageLVL,vs,POS,verbVar2,0.0852178643473045,0.770686980451773
+languageLVL,vs,POS,squaredVerbVar1,1.201883777783768,0.2744265023681821
+languageLVL,vs,POS,correctedVV1,0.920723441135294,0.338586649198099
+languageLVL,vs,localNounOverlapCount,,,
+languageLVL,vs,localArgumentOverlapCount,0.025023393519352004,0.8744881000482395,
+languageLVL,vs,localStemOverlapCount,1.065796845439642,0.30329741294076434,
+languageLVL,vs,localContentWordOverlap,0.2154437232527145,0.6431008881098211,
+languageLVL,vs,globalNounOverlapCount,,,
+languageLVL,vs,globalArgumentOverlapCount,0.18944417640679254,0.6639069163933786,
+languageLVL,vs,globalStemOverlapCount,0.36283632249841447,0.5477017879035779,
+languageLVL,vs,globalContentWordOverlap,0.17001317968548654,0.6805962543373181,
+languageLVL,vs,TTR,0.2775012301331171,0.5989995485092787,
+languageLVL,vs,CorrectedTTR,0.9341645116226139,0.3350944578644307,
+languageLVL,vs,RootTTR,0.9341645116225349,0.33509445786445136,
+languageLVL,vs,BilogTTR,1.109036922880055,0.29371885078038573,
+languageLVL,vs,MTLD,15.813333246406847,0.00010154651327715811,
+languageLVL,vs,conjunctToSent,0.37372848332567477,0.541758848457997,
+languageLVL,vs,conjunctTypesToSent,12.528928133516105,0.0005113325428450167,
+languageLVL,vs,conjunctToWords,0.785302085420436,0.3767201160396999,
+languageLVL,vs,conjunctNum,0.13629207579323532,0.7124341565351101,
+languageLVL,vs,conjunctTypesToTotal,9.695801758298044,0.0021526666148614223,
+languageLVL,vs,conjunctNeighborSent,0.014451020493521493,0.9044504761913359,
+languageLVL,vs,Segment,,,
+languageLVL,vs,WC,,,
+languageLVL,vs,WPS,,,
+languageLVL,vs,BigWords,,,
+languageLVL,vs,emopos,,,
+languageLVL,vs,emoneg,,,
+languageLVL,vs,anxiete,,,
+languageLVL,vs,colère,,,
+languageLVL,vs,tristesse,,,
+languageLVL,vs,cognition,,,
+languageLVL,vs,perspicacite,,,
+languageLVL,vs,cause,,,
+languageLVL,vs,divergence,,,
+languageLVL,vs,tentative,,,
+languageLVL,vs,certitude,,,
+languageLVL,vs,inhibition,,,
+languageLVL,vs,inclusion,,,
+languageLVL,vs,exclusion,,,
+languageLVL,vs,perception,,,
+languageLVL,vs,remplisseur,,,
+languageLVL,vs,Unnamed: 5,,,
+languageLVL,vs,Unnamed: 6,,,
+languageLVL,vs,Unnamed: 7,,,
+languageLVL,vs,Unnamed: 8,,,
+languageLVL,vs,Unnamed: 9,,,
+languageLVL,vs,Unnamed: 10,,,
+languageLVL,vs,Unnamed: 11,,,
+languageLVL,vs,Unnamed: 12,,,
+languageLVL,vs,Unnamed: 13,,,
+languageLVL,vs,Unnamed: 14,,,
+languageLVL,vs,Unnamed: 15,,,
+languageLVL,vs,Unnamed: 16,,,
+languageLVL,vs,Unnamed: 17,,,
+languageLVL,vs,Unnamed: 18,,,
+languageLVL,vs,Unnamed: 19,,,
+languageLVL,vs,Unnamed: 20,,,
+languageLVL,vs,Unnamed: 21,,,
+languageLVL,vs,Unnamed: 38,,,
+languageLVL,vs,Unnamed: 39,,,
+languageLVL,vs,Unnamed: 40,,,
+languageLVL,vs,Unnamed: 41,,,
+languageLVL,vs,Unnamed: 42,,,
+languageLVL,vs,DISC,RefExprPronounsPerNoun,0.1951208014633752,0.6592245172861773
+languageLVL,vs,DISC,RefExprPronounsPerSen,6.51195994001298,0.011555759430543553
+languageLVL,vs,DISC,RefExprPronounsPerWord,3.6415526683072335,0.05796378279036925
+languageLVL,vs,DISC,RefExprPerPronounsPerSen,6.51195994001298,0.011555759430543553
+languageLVL,vs,DISC,RefExprPerProPerWord,3.6415526683072335,0.05796378279036925
+languageLVL,vs,DISC,RefExprPossProPerSen,,
+languageLVL,vs,DISC,RefExprPossProPerWord,,
+languageLVL,vs,DISC,RefExprDefArtPerSen,,
+languageLVL,vs,DISC,RefExprDefArtPerWord,,
+languageLVL,vs,DISC,RefExprProperNounsPerNoun,22.37137548703369,4.5577066232492526e-06
+passiveV,vs,POS,numNouns,0.29672826830668464,0.5866226135310176
+passiveV,vs,POS,numProperNouns,0.010011751946988025,0.9204102947666806
+passiveV,vs,POS,numPronouns,5.346450393206503,0.02190909834838927
+passiveV,vs,POS,numConjunct,0.5817835339081358,0.4466237043870702
+passiveV,vs,POS,numAdjectives,0.5092084229031234,0.47641629748188874
+passiveV,vs,POS,numVerbs,3.8962797763722494,0.04994045240772108
+passiveV,vs,POS,numAdverbs,0.7323761500007775,0.3932645840255419
+passiveV,vs,POS,numModals,,
+passiveV,vs,POS,numPrepositions,1.3941702164786614,0.23927745665396524
+passiveV,vs,POS,numInterjections,10.207084630861742,0.0016550811900276532
+passiveV,vs,POS,numPerPronouns,5.346450393206503,0.02190909834838927
+passiveV,vs,POS,numWhPronouns,,
+passiveV,vs,POS,numLexicals,8.08667084667995,0.004981179735875794
+passiveV,vs,POS,numFunctionWords,5.095659247937542,0.025200943001393247
+passiveV,vs,POS,numDeterminers,0.4546709686216461,0.500999856626031
+passiveV,vs,POS,numVerbsVB,2.4760874824147545,0.11736521829249316
+passiveV,vs,POS,numVerbsVBG,,
+passiveV,vs,POS,numVerbsVBN,0.40352816600924657,0.5260885220240605
+passiveV,vs,POS,numVerbsVBP,,
+passiveV,vs,POS,numVerbsVBZ,,
+passiveV,vs,POS,advVar,0.2759321735334632,0.6000336011168748
+passiveV,vs,POS,adjVar,0.09304148349324691,0.7607019429627593
+passiveV,vs,POS,modVar,0.3506717702806775,0.5544845502500182
+passiveV,vs,POS,nounVar,2.230303641164973,0.13709770514828912
+passiveV,vs,POS,verbVar1,7.088332333459598,0.008469532397225164
+passiveV,vs,POS,verbVar2,1.2006633722748818,0.2746694685453994
+passiveV,vs,POS,squaredVerbVar1,0.4120997616112268,0.5217315238311971
+passiveV,vs,POS,correctedVV1,0.39657474979434815,0.529671018227406
+passiveV,vs,localNounOverlapCount,,,
+passiveV,vs,localArgumentOverlapCount,0.8978904811543705,0.34463261749734064,
+passiveV,vs,localStemOverlapCount,0.19242259884040358,0.6614398661850355,
+passiveV,vs,localContentWordOverlap,5.67086262078816,0.018304336397077296,
+passiveV,vs,globalNounOverlapCount,,,
+passiveV,vs,globalArgumentOverlapCount,0.019608661848282898,0.8887938756883027,
+passiveV,vs,globalStemOverlapCount,0.0007618643762358094,0.9780105948282667,
+passiveV,vs,globalContentWordOverlap,2.226212223714842,0.137456324206917,
+passiveV,vs,TTR,1.4794989051976373,0.2254634189760455,
+passiveV,vs,CorrectedTTR,2.965710644764644,0.08678413031825112,
+passiveV,vs,RootTTR,2.9657106447646377,0.08678413031825112,
+passiveV,vs,BilogTTR,4.059827039513186,0.04541983664500078,
+passiveV,vs,MTLD,0.5007078301257606,0.48011472356098595,
+passiveV,vs,conjunctToSent,0.06248899030478748,0.8028926450764045,
+passiveV,vs,conjunctTypesToSent,0.6552730114952268,0.419314488079111,
+passiveV,vs,conjunctToWords,0.07215877973926725,0.7885302259493735,
+passiveV,vs,conjunctNum,0.15789877559539706,0.6915745610171957,
+passiveV,vs,conjunctTypesToTotal,0.42775120670120365,0.5139385401726645,
+passiveV,vs,conjunctNeighborSent,0.011871474454391505,0.9133598844189612,
+passiveV,vs,Segment,,,
+passiveV,vs,WC,,,
+passiveV,vs,WPS,,,
+passiveV,vs,BigWords,,,
+passiveV,vs,emopos,,,
+passiveV,vs,emoneg,,,
+passiveV,vs,anxiete,,,
+passiveV,vs,colère,,,
+passiveV,vs,tristesse,,,
+passiveV,vs,cognition,,,
+passiveV,vs,perspicacite,,,
+passiveV,vs,cause,,,
+passiveV,vs,divergence,,,
+passiveV,vs,tentative,,,
+passiveV,vs,certitude,,,
+passiveV,vs,inhibition,,,
+passiveV,vs,inclusion,,,
+passiveV,vs,exclusion,,,
+passiveV,vs,perception,,,
+passiveV,vs,remplisseur,,,
+passiveV,vs,Unnamed: 5,,,
+passiveV,vs,Unnamed: 6,,,
+passiveV,vs,Unnamed: 7,,,
+passiveV,vs,Unnamed: 8,,,
+passiveV,vs,Unnamed: 9,,,
+passiveV,vs,Unnamed: 10,,,
+passiveV,vs,Unnamed: 11,,,
+passiveV,vs,Unnamed: 12,,,
+passiveV,vs,Unnamed: 13,,,
+passiveV,vs,Unnamed: 14,,,
+passiveV,vs,Unnamed: 15,,,
+passiveV,vs,Unnamed: 16,,,
+passiveV,vs,Unnamed: 17,,,
+passiveV,vs,Unnamed: 18,,,
+passiveV,vs,Unnamed: 19,,,
+passiveV,vs,Unnamed: 20,,,
+passiveV,vs,Unnamed: 21,,,
+passiveV,vs,Unnamed: 38,,,
+passiveV,vs,Unnamed: 39,,,
+passiveV,vs,Unnamed: 40,,,
+passiveV,vs,Unnamed: 41,,,
+passiveV,vs,Unnamed: 42,,,
+passiveV,vs,DISC,RefExprPronounsPerNoun,4.358907554050618,0.038239503153168486
+passiveV,vs,DISC,RefExprPronounsPerSen,3.959351009807496,0.04814279726798324
+passiveV,vs,DISC,RefExprPronounsPerWord,5.7431792346652175,0.0175886848698374
+passiveV,vs,DISC,RefExprPerPronounsPerSen,3.959351009807496,0.04814279726798324
+passiveV,vs,DISC,RefExprPerProPerWord,5.7431792346652175,0.0175886848698374
+passiveV,vs,DISC,RefExprPossProPerSen,,
+passiveV,vs,DISC,RefExprPossProPerWord,,
+passiveV,vs,DISC,RefExprDefArtPerSen,,
+passiveV,vs,DISC,RefExprDefArtPerWord,,
+passiveV,vs,DISC,RefExprProperNounsPerNoun,0.03960198445097809,0.8424879374919878
+negLang,vs,POS,numNouns,0.13584125626647423,0.712888857602042
+negLang,vs,POS,numProperNouns,0.9268333888030255,0.3369931436261304
+negLang,vs,POS,numPronouns,0.6839651570909905,0.40933195879559536
+negLang,vs,POS,numConjunct,2.6409565854021118,0.1059101235970793
+negLang,vs,POS,numAdjectives,0.15293733486418706,0.6962116899359063
+negLang,vs,POS,numVerbs,0.4325667466171675,0.5115817896448942
+negLang,vs,POS,numAdverbs,0.3580051294741091,0.5503768155219174
+negLang,vs,POS,numModals,,
+negLang,vs,POS,numPrepositions,4.106001552182335,0.044223839114921774
+negLang,vs,POS,numInterjections,7.4633733285180375,0.006931207616815632
+negLang,vs,POS,numPerPronouns,0.6839651570909905,0.40933195879559536
+negLang,vs,POS,numWhPronouns,,
+negLang,vs,POS,numLexicals,0.0025914393252467085,0.9594573597111589
+negLang,vs,POS,numFunctionWords,0.457221536813885,0.49980299371489345
+negLang,vs,POS,numDeterminers,0.1405361687358698,0.7081948437371843
+negLang,vs,POS,numVerbsVB,0.32042421833954193,0.5720657569787821
+negLang,vs,POS,numVerbsVBG,,
+negLang,vs,POS,numVerbsVBN,4.882224457886685,0.028410407975545865
+negLang,vs,POS,numVerbsVBP,,
+negLang,vs,POS,numVerbsVBZ,,
+negLang,vs,POS,advVar,0.5040124338718025,0.47867138473045545
+negLang,vs,POS,adjVar,0.24949633735210067,0.6180467824554672
+negLang,vs,POS,modVar,0.05768602638428188,0.8104677520722006
+negLang,vs,POS,nounVar,0.10529839690626641,0.7459427073110606
+negLang,vs,POS,verbVar1,16.98664428723768,5.762659430264695e-05
+negLang,vs,POS,verbVar2,0.5103240053092775,0.47593439493907574
+negLang,vs,POS,squaredVerbVar1,8.115174873113066,0.004906870874151421
+negLang,vs,POS,correctedVV1,7.2972549039374135,0.007573502544688771
+negLang,vs,localNounOverlapCount,,,
+negLang,vs,localArgumentOverlapCount,4.4112027462228476e-05,0.9947081759070189,
+negLang,vs,localStemOverlapCount,0.05408649397293691,0.8163663711657891,
+negLang,vs,localContentWordOverlap,0.7012990740908921,0.40347051359725594,
+negLang,vs,globalNounOverlapCount,,,
+negLang,vs,globalArgumentOverlapCount,1.515816506238979,0.21987792248230148,
+negLang,vs,globalStemOverlapCount,2.030376154828044,0.15593344039839233,
+negLang,vs,globalContentWordOverlap,0.9756869031118781,0.3246067521340841,
+negLang,vs,TTR,0.7798156310518729,0.3783886071749739,
+negLang,vs,CorrectedTTR,0.03149258032066883,0.8593476916828755,
+negLang,vs,RootTTR,0.03149258032067521,0.8593476916828755,
+negLang,vs,BilogTTR,0.011391045415644055,0.9151242944233139,
+negLang,vs,MTLD,0.6211862549985409,0.4316551578496489,
+negLang,vs,conjunctToSent,1.002738133083739,0.31800819490676924,
+negLang,vs,conjunctTypesToSent,3.4988312994726356,0.06305368214442078,
+negLang,vs,conjunctToWords,1.8034265133320486,0.1810086744227729,
+negLang,vs,conjunctNum,0.04241888783847617,0.8370587302711937,
+negLang,vs,conjunctTypesToTotal,0.958440899189392,0.32890870883576695,
+negLang,vs,conjunctNeighborSent,0.008860441458981445,0.9251118279078915,
+negLang,vs,Segment,,,
+negLang,vs,WC,,,
+negLang,vs,WPS,,,
+negLang,vs,BigWords,,,
+negLang,vs,emopos,,,
+negLang,vs,emoneg,,,
+negLang,vs,anxiete,,,
+negLang,vs,colère,,,
+negLang,vs,tristesse,,,
+negLang,vs,cognition,,,
+negLang,vs,perspicacite,,,
+negLang,vs,cause,,,
+negLang,vs,divergence,,,
+negLang,vs,tentative,,,
+negLang,vs,certitude,,,
+negLang,vs,inhibition,,,
+negLang,vs,inclusion,,,
+negLang,vs,exclusion,,,
+negLang,vs,perception,,,
+negLang,vs,remplisseur,,,
+negLang,vs,Unnamed: 5,,,
+negLang,vs,Unnamed: 6,,,
+negLang,vs,Unnamed: 7,,,
+negLang,vs,Unnamed: 8,,,
+negLang,vs,Unnamed: 9,,,
+negLang,vs,Unnamed: 10,,,
+negLang,vs,Unnamed: 11,,,
+negLang,vs,Unnamed: 12,,,
+negLang,vs,Unnamed: 13,,,
+negLang,vs,Unnamed: 14,,,
+negLang,vs,Unnamed: 15,,,
+negLang,vs,Unnamed: 16,,,
+negLang,vs,Unnamed: 17,,,
+negLang,vs,Unnamed: 18,,,
+negLang,vs,Unnamed: 19,,,
+negLang,vs,Unnamed: 20,,,
+negLang,vs,Unnamed: 21,,,
+negLang,vs,Unnamed: 38,,,
+negLang,vs,Unnamed: 39,,,
+negLang,vs,Unnamed: 40,,,
+negLang,vs,Unnamed: 41,,,
+negLang,vs,Unnamed: 42,,,
+negLang,vs,DISC,RefExprPronounsPerNoun,0.5113465735038614,0.4754933710428094
+negLang,vs,DISC,RefExprPronounsPerSen,0.9545771596034969,0.3298829194837053
+negLang,vs,DISC,RefExprPronounsPerWord,0.8675220825138331,0.3529037680757934
+negLang,vs,DISC,RefExprPerPronounsPerSen,0.9545771596034969,0.3298829194837053
+negLang,vs,DISC,RefExprPerProPerWord,0.8675220825138331,0.3529037680757934
+negLang,vs,DISC,RefExprPossProPerSen,,
+negLang,vs,DISC,RefExprPossProPerWord,,
+negLang,vs,DISC,RefExprDefArtPerSen,,
+negLang,vs,DISC,RefExprDefArtPerWord,,
+negLang,vs,DISC,RefExprProperNounsPerNoun,0.6112095436862846,0.435371432995029
+metaphor,vs,POS,numNouns,0.003777366966907602,0.9510615950848736
+metaphor,vs,POS,numProperNouns,34.14050219344061,2.3927186316296558e-08
+metaphor,vs,POS,numPronouns,0.5328536161457443,0.4663691778753729
+metaphor,vs,POS,numConjunct,0.10217984320739841,0.7496041192673397
+metaphor,vs,POS,numAdjectives,3.1917330409654174,0.0757134988879329
+metaphor,vs,POS,numVerbs,0.09354294850706586,0.760077846334438
+metaphor,vs,POS,numAdverbs,6.95600823430028,0.009093077247948247
+metaphor,vs,POS,numModals,,
+metaphor,vs,POS,numPrepositions,0.41156578901084356,0.5220010691365236
+metaphor,vs,POS,numInterjections,10.093779287259698,0.0017541066816258223
+metaphor,vs,POS,numPerPronouns,0.5328536161457443,0.4663691778753729
+metaphor,vs,POS,numWhPronouns,,
+metaphor,vs,POS,numLexicals,1.0541468105039065,0.3059471756710957
+metaphor,vs,POS,numFunctionWords,3.995606513537616,0.04714074334347741
+metaphor,vs,POS,numDeterminers,1.457412741036804,0.22894399534706456
+metaphor,vs,POS,numVerbsVB,0.0727760490699331,0.7876494140530292
+metaphor,vs,POS,numVerbsVBG,,
+metaphor,vs,POS,numVerbsVBN,1.0596139813566032,0.3046999499448031
+metaphor,vs,POS,numVerbsVBP,,
+metaphor,vs,POS,numVerbsVBZ,,
+metaphor,vs,POS,advVar,7.245489384171169,0.007785970577935577
+metaphor,vs,POS,adjVar,4.28072630217609,0.03999206081865838
+metaphor,vs,POS,modVar,0.6092093245906987,0.43612239265942987
+metaphor,vs,POS,nounVar,0.09293554300676697,0.7608340260155633
+metaphor,vs,POS,verbVar1,0.030888617771180456,0.8606888901470949
+metaphor,vs,POS,verbVar2,0.3861255241776232,0.5351380294201312
+metaphor,vs,POS,squaredVerbVar1,4.322891542344455,0.03903654118815142
+metaphor,vs,POS,correctedVV1,3.6273557516162396,0.05844976958180404
+metaphor,vs,localNounOverlapCount,,,
+metaphor,vs,localArgumentOverlapCount,4.163909685590965,0.04277099703599731,
+metaphor,vs,localStemOverlapCount,1.7146627867536768,0.1920692016616183,
+metaphor,vs,localContentWordOverlap,0.019763424637896994,0.8883587750314746,
+metaphor,vs,globalNounOverlapCount,,,
+metaphor,vs,globalArgumentOverlapCount,0.11217054178142657,0.7380807550530191,
+metaphor,vs,globalStemOverlapCount,0.006147167030053538,0.9375948617025212,
+metaphor,vs,globalContentWordOverlap,0.12033357714361004,0.729082742861046,
+metaphor,vs,TTR,3.6980284493416598,0.0560729461611045,
+metaphor,vs,CorrectedTTR,2.6553344757520487,0.10497144340948396,
+metaphor,vs,RootTTR,2.655334475751976,0.10497144340948954,
+metaphor,vs,BilogTTR,2.402698291791902,0.122902306144827,
+metaphor,vs,MTLD,13.809817283079093,0.00027066339760035757,
+metaphor,vs,conjunctToSent,0.3266602412022972,0.5683532971727417,
+metaphor,vs,conjunctTypesToSent,1.247071950139601,0.2656175956650095,
+metaphor,vs,conjunctToWords,0.41685486131393634,0.519342014605467,
+metaphor,vs,conjunctNum,1.2991990215017066,0.25589104012785374,
+metaphor,vs,conjunctTypesToTotal,1.095857101596213,0.296596508484588,
+metaphor,vs,conjunctNeighborSent,4.733851960906405,0.03089257793598984,
+metaphor,vs,Segment,,,
+metaphor,vs,WC,,,
+metaphor,vs,WPS,,,
+metaphor,vs,BigWords,,,
+metaphor,vs,emopos,,,
+metaphor,vs,emoneg,,,
+metaphor,vs,anxiete,,,
+metaphor,vs,colère,,,
+metaphor,vs,tristesse,,,
+metaphor,vs,cognition,,,
+metaphor,vs,perspicacite,,,
+metaphor,vs,cause,,,
+metaphor,vs,divergence,,,
+metaphor,vs,tentative,,,
+metaphor,vs,certitude,,,
+metaphor,vs,inhibition,,,
+metaphor,vs,inclusion,,,
+metaphor,vs,exclusion,,,
+metaphor,vs,perception,,,
+metaphor,vs,remplisseur,,,
+metaphor,vs,Unnamed: 5,,,
+metaphor,vs,Unnamed: 6,,,
+metaphor,vs,Unnamed: 7,,,
+metaphor,vs,Unnamed: 8,,,
+metaphor,vs,Unnamed: 9,,,
+metaphor,vs,Unnamed: 10,,,
+metaphor,vs,Unnamed: 11,,,
+metaphor,vs,Unnamed: 12,,,
+metaphor,vs,Unnamed: 13,,,
+metaphor,vs,Unnamed: 14,,,
+metaphor,vs,Unnamed: 15,,,
+metaphor,vs,Unnamed: 16,,,
+metaphor,vs,Unnamed: 17,,,
+metaphor,vs,Unnamed: 18,,,
+metaphor,vs,Unnamed: 19,,,
+metaphor,vs,Unnamed: 20,,,
+metaphor,vs,Unnamed: 21,,,
+metaphor,vs,Unnamed: 38,,,
+metaphor,vs,Unnamed: 39,,,
+metaphor,vs,Unnamed: 40,,,
+metaphor,vs,Unnamed: 41,,,
+metaphor,vs,Unnamed: 42,,,
+metaphor,vs,DISC,RefExprPronounsPerNoun,1.1718304996890938,0.28048970414316016
+metaphor,vs,DISC,RefExprPronounsPerSen,1.7115230592202617,0.19247471686334838
+metaphor,vs,DISC,RefExprPronounsPerWord,0.12618265291365427,0.7228438628875138
+metaphor,vs,DISC,RefExprPerPronounsPerSen,1.7115230592202617,0.19247471686334838
+metaphor,vs,DISC,RefExprPerProPerWord,0.12618265291365427,0.7228438628875138
+metaphor,vs,DISC,RefExprPossProPerSen,,
+metaphor,vs,DISC,RefExprPossProPerWord,,
+metaphor,vs,DISC,RefExprDefArtPerSen,,
+metaphor,vs,DISC,RefExprDefArtPerWord,,
+metaphor,vs,DISC,RefExprProperNounsPerNoun,38.54730779143061,3.6607563411607763e-09

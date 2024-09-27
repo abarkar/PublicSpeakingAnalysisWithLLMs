@@ -1,0 +1,11 @@
+Lexical Feature,Spearman Correlation,p-value
+DISC_RefExprPronounsPerNoun,,
+DISC_RefExprPronounsPerSen,,
+DISC_RefExprPronounsPerWord,,
+DISC_RefExprPerPronounsPerSen,,
+DISC_RefExprPerProPerWord,,
+DISC_RefExprPossProPerSen,,
+DISC_RefExprPossProPerWord,,
+DISC_RefExprDefArtPerSen,,
+DISC_RefExprDefArtPerWord,,
+DISC_RefExprProperNounsPerNoun,,
