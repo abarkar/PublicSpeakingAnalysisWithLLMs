@@ -4,10 +4,9 @@ This is automatic public speaking analysis framework based on open-source Large 
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+- [Pipeline](#pipeline)
+- [Results](#results)
+- [Model Parameters Used in Experiments](#modelparametersusedinexperiments)
 - [Acknowledgements](#acknowledgements)
 
 ## Installation
