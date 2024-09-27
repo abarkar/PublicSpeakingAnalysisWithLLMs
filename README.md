@@ -81,14 +81,14 @@ chmod +x criteria_analysis_with_LLM.sh
 
 ```bash
 # This code aggregated the scores
-python3 python3 aggregare_raw_outputs.py 
+python3 aggregare_raw_outputs.py 
 ```
 
 - Finally, not all of the prompts gave us the answer in the form of the one value. To extract the scores from the text provided by LLM we used scapy library and following script:
 
 ```bash
 # This code aggregated the scores
-python3 python3 score_extraction_with_spacy.py 
+python3 score_extraction_with_spacy.py 
 ```
 # Results
 
